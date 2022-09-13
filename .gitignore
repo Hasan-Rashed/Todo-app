@@ -1,0 +1,4 @@
+/node_modules
+/frontend-form
+.env
+settings.json
